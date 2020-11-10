@@ -17,7 +17,10 @@
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shubhadip | YouTube" width="22px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
+[<img align="left" alt="Shubhadip | medium" width="22px"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/medium.svg" />][medium]
+[<img align="left" alt="Shubhadip | devto" width="22px"
+    src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/dev-dot-to.svg" />][dev-dot-to]
 <br />
 
 ### Languages and Tools:
@@ -59,4 +62,5 @@
 
 [linkedin]: https://www.linkedin.com/in/shubhadip-maity/
 [medium]: https://shubhadip.medium.com/
-[twitter]: https://twitter.com/maity_shubho
+[dev-dot-to]:https://dev.to/shubhadip/
+[twitter]: https://twitter.com/maity_shubho/
