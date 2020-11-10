@@ -4,7 +4,6 @@
 ### FullStack Developer | Tech Enthusiast  !!
 
 [![LinkedInConnect](https://img.shields.io/badge/%20-Connect-black?color=14171A&labelColor=212121&logo=linkedin&logoColor=ffcc80)][linkedin]
-[![InstaFollow](https://img.shields.io/badge/%20-Follow-black?color=14171A&labelColor=d81b60&logo=instagram&logoColor=ffffff)][instagram]
 [![Gmail](https://img.shields.io/badge/%20-Send%20Mail-black?color=14171A&labelColor=ef5350&logo=gmail&logoColor=ffffff)](mailto:shubhadip.maity@gmail.com?subject=From%20GitHub&cc=shubhadip.maity@gmail.com&body=Hi,%20there.%20Found%20you%20from%20GitHub.)
 [![TwitterFollow](https://img.shields.io/badge/dynamic/json.svg?color=14171A&labelColor=37474f&logo=twitter&logoColor=4fc3f7&label=&query=%24[0].followers_count&url=https%3A%2F%2Fcdn.syndication.twimg.com%2Fwidgets%2Ffollowbutton%2Finfo.json%3Fscreen_names%3DLakshmanGope&suffix=%20Followers)][twitter]
 
@@ -16,14 +15,8 @@
 
 [<img align="left" alt="Shubhadip | LinkedIn" width="22px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shubhadip | Instagram" width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Shubhadip | YouTube" width="22px"
-    src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Shubhadip | YouTube" width="22px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Shubhadip" width="22px"
-    src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 
 <br />
 
@@ -65,6 +58,5 @@
             width="26px" height="26px" /> </a> </p>
 
 [linkedin]: https://www.linkedin.com/in/shubhadip-maity/
-[dev.to]: https://dev.to/shubhadip
 [medium]: https://shubhadip.medium.com/
 [twitter]: https://twitter.com/maity_shubho
