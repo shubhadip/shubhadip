@@ -19,7 +19,7 @@
     src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Shubhadip | medium" width="22px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/medium.svg" />][medium]
-[<img align="left" alt="Shubhadip | devto" width="22px"
+[<img align="left" alt="Shubhadip | devto" width="30px" margin="-4px 0px 0px 0px"
     src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/dev-dot-to.svg" />][dev-dot-to]
 <br />
 
